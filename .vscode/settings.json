@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "*.embeddedhtml": "html",
-        "parson.h": "c"
+        "parson.h": "c",
+        "iostream": "cpp"
     }
 }
